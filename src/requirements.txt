@@ -1,0 +1,15 @@
+matplotlib
+numpy
+streamlit
+seaborn
+altair
+joblib
+xgboost
+pandas
+ipython
+Pillow
+scikit_learn
+xlrd
+openpyxl
+pickle5
+plotly
